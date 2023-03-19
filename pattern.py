@@ -1,0 +1,1 @@
+[print(i*" "+j*"*"+(j-1)*"*") for i,j in enumerate([ i for i in range(len([print(j*" "+i*"*"+(i-1)*"*") for i,j in enumerate([ i for i in range(int(input("Enter the length: ")),0,-1)])]),0,-1)])]
